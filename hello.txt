@@ -124,6 +124,7 @@ Choose: Pipeline
 Click OK.
 ________________________________________
 2️⃣ Scroll down to Pipeline section
+select Poll SCM under triggers
 Under Definition, select:
 Pipeline script
 ________________________________________
